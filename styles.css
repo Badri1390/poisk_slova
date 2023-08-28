@@ -17,3 +17,13 @@
     font-size: larger;
     background-color: rgb(241, 237, 232);
 }
+
+@media (min-device-width: 320px) and (max-device-width: 600px) {
+    .header, .input{
+      margin-top: 50px;
+    }
+    .txt{
+      width: 190px;
+    }
+  } 
+  
