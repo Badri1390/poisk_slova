@@ -1,0 +1,19 @@
+.input{
+    display: flex;
+    justify-content: center;
+}
+
+.txt {
+    font-size: 25px;
+}
+
+::placeholder {
+    color: gray;
+    font-size: 17px;
+  }
+
+.header {
+    padding: 10px;
+    font-size: larger;
+    background-color: rgb(241, 237, 232);
+}
